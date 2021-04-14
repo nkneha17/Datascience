@@ -1,2 +1,2 @@
-# Datascience
+# Data_Science
 course_practice
